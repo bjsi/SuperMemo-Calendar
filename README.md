@@ -1,6 +1,4 @@
-# flask-typescript-react-template
-A simple template with boilerplate for a Python + Flask backend, TypeScript + React frontend.
-
+A SuperMemo Calendar to visualise data from SuperMemo-Watcher
 
 npm init
 
